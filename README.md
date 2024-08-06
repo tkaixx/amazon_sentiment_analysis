@@ -2,7 +2,7 @@
 
 ## Overview
 Sentiment Analysis using VADER and Roberta Models to derive polarity scores for Amazon Fine Food Customer Reviews.
-Data visualization in Word Cloud for cleaned text reviews to understand the most frequently-used words found for positive, neutral, and negative sentiment respectively.
+Data visualization using Word Clouds for cleaned text reviews to understand customers' most frequently used words in positive, neutral, and negative sentiments respectively.
 
 ## Data
 Data source is from Kaggle Dataset, Amazon Fine Food Reviews
@@ -15,8 +15,8 @@ https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 
 ## Word Cloud Analysis
 Steps Taken:
-1. Clean text by converting all words to lowercases, removing stopwords, numbers & punctuations
-2. Perform tokentization
+1. Clean text by converting all words to lowercase, removing stopwords, numbers & punctuations
+2. Perform tokenization
 3. Generate separate word clouds for clean text grouped by sentiment labels (positive, neutral & negative)
 
 ![image](https://github.com/user-attachments/assets/124e1910-1840-43f5-ad0f-b8823cb57591)
