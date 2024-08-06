@@ -10,7 +10,7 @@ https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 
 ## Sentiment Analysis Techniques
 1. VADER (Valence Aware Dictionary and sEntiment Reasoner) uses Bag of words approach
-  - derive positive, neutral, negative polarity & compound scores from text
+  - derive positive, neutral, negative polarity scores & compound score from text
 2. Pre-trained Roberta Model from Hugging Face (https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest) 
 
 ## Word Cloud Analysis
